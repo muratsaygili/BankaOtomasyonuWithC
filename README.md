@@ -1,4 +1,4 @@
-deneme
+Algoritmalar ve Programlama dersi dönem projesi
 ======
 
-deneme
+C dili ile yaptığım konsolda banka otomasyonu
